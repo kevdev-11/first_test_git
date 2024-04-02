@@ -2,5 +2,4 @@
 
 Primer readme hecho por Diego para empezar con el proyecto del dashborad 😀😀🤣😀
 
-
-c
+Cambio 2 en el readme
